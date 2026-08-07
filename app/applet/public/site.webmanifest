@@ -1,0 +1,21 @@
+{
+  "name": "Lefto — إنقاذ فائض الطعام في الجزائر",
+  "short_name": "Lefto",
+  "description": "منصة إنقاذ فائض الطعام والمشروبات والوجبات في الجزائر للمؤسسات والفنادق والجمعيات",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png?v=lefto1",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png?v=lefto1",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#10b981",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Lefto",
+  "description": "Lefto - Algeria surplus food marketplace connecting hotels and charities with 15% commission.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
